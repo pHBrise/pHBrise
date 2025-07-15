@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Phanvit Chevamongkolnimit
 
 ### About Me:
-👨‍💻 Passionate freelance iOS developer with 2 years of experience building high-quality and user-friendly mobile applications using Swift and Objective-C.
-
-🚀 Currently expanding my skillset into the world of cross-platform development with Flutter! Excited to leverage my mobile development foundation to create beautiful and performant apps for both iOS and Android.
+Experienced iOS Developer with 10 years of experience in building and optimizing high-performance mobile applications.
 
 ### Skills:
 
